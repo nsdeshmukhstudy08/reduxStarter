@@ -1,0 +1,22 @@
+td, th{
+    vertical-align: middle !important;
+    text-align: center !important;
+}
+
+tr{
+    height: 150px;
+    width: 150px
+}
+
+.input-group {
+    margin: 20px 0px;
+}
+
+svg{
+    height: 150px;
+}
+
+.mapDivClass {
+    height: 100% !important;
+    width: 100% !important;
+}
